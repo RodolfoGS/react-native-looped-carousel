@@ -30,8 +30,8 @@
   ],
   "license": "MIT",
   "peerDependencies": {
-    "react": "^16.0.0",
-    "react-native": "^0.54.0"
+    "react": "*",
+    "react-native": "*"
   },
   "devDependencies": {
     "babel-eslint": "^8.2.2",
